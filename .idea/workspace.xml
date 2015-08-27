@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b1312ef-3b94-497e-9531-c4914e7894e1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/aetuts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/creative-market.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/designmodo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/envato.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/microlancer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/themeforest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/wordpress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/dreams-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/dreams.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/escape-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/escape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/golden-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/golden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/roundicons-free.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/roundicons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/startup-framework-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/startup-framework.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/treehouse-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/treehouse.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/portfolio/877.jpeg" afterPath="$PROJECT_DIR$/img/portfolio/news-preview.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/portfolio/promo1.png" afterPath="$PROJECT_DIR$/img/portfolio/promo-preview.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/portfolio/pumpdesg.jpeg" afterPath="$PROJECT_DIR$/img/portfolio/pump-preview.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/portfolio/rhizomedisp.jpeg" afterPath="$PROJECT_DIR$/img/portfolio/rhizome-preview.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/portfolio/smbrewery.jpeg" afterPath="$PROJECT_DIR$/img/portfolio/brewery-preview.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/portfolio/smphone.jpeg" afterPath="$PROJECT_DIR$/img/portfolio/phone-preview.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/rhizome.jpeg" afterPath="$PROJECT_DIR$/img/portfolio/rhizome.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ohmbrewer.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3357532" vertical-offset="8390" max-vertical-offset="13050">
-              <caret line="507" column="105" selection-start-line="507" selection-start-column="105" selection-end-line="507" selection-end-column="105" />
+            <state vertical-scroll-proportion="0.7150635" vertical-offset="10082" max-vertical-offset="13086">
+              <caret line="582" column="105" selection-start-line="582" selection-start-column="105" selection-end-line="582" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -433,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3357532" vertical-offset="8390" max-vertical-offset="13050">
-          <caret line="507" column="105" selection-start-line="507" selection-start-column="105" selection-end-line="507" selection-end-column="105" />
+        <state vertical-scroll-proportion="0.7150635" vertical-offset="10082" max-vertical-offset="13086">
+          <caret line="582" column="105" selection-start-line="582" selection-start-column="105" selection-end-line="582" selection-end-column="105" />
           <folding />
         </state>
       </provider>
